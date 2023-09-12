@@ -1,0 +1,13 @@
+d2c09294b5bd9739a8401d280e1b462f *DESCRIPTION
+843e4fd676b4e1ddbbd653660a498f09 *LICENSE
+b1ae0d190b275ea5102386a6db493ab0 *NAMESPACE
+53f25416feb14d3882d7646d992c18ae *R/colorConesa_functions.R
+34a4bc254bec4974e94f1c56767a617e *README.md
+99d6848ac4389532f83b8280851254e6 *man/colorConesa.Rd
+9259443872d71a0f137893fee3e67c0d *man/conesa_cols.Rd
+0f040b95326a39781cd51f81790fb305 *man/conesa_pal.Rd
+c836531aa2706e8f5e35d5b317509284 *man/conesa_palettes.Rd
+78ae8cd7e9d743924a4a7be5db909142 *man/getConesaColors.Rd
+5a489edeb3e07a605e02269d779a602e *man/getConesaPalettes.Rd
+922448997fa646db5a6cea0b19dafb18 *man/scale_color_conesa.Rd
+fab34a9dfd9bb122a45670b59b152c61 *man/scale_fill_conesa.Rd
